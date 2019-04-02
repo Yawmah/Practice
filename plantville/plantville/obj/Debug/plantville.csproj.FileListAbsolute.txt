@@ -1,0 +1,8 @@
+\\apporto.com\dfs\users\johnhamway_ucla\documents\visual studio 2017\Projects\plantville\plantville\bin\Debug\plantville.exe.config
+\\apporto.com\dfs\users\johnhamway_ucla\documents\visual studio 2017\Projects\plantville\plantville\bin\Debug\plantville.exe
+\\apporto.com\dfs\users\johnhamway_ucla\documents\visual studio 2017\Projects\plantville\plantville\bin\Debug\plantville.pdb
+\\apporto.com\dfs\users\johnhamway_ucla\documents\visual studio 2017\Projects\plantville\plantville\bin\Debug\Newtonsoft.Json.dll
+\\apporto.com\dfs\users\johnhamway_ucla\documents\visual studio 2017\Projects\plantville\plantville\bin\Debug\Newtonsoft.Json.xml
+\\apporto.com\dfs\users\johnhamway_ucla\documents\visual studio 2017\Projects\plantville\plantville\obj\Debug\plantville.csprojResolveAssemblyReference.cache
+\\apporto.com\dfs\users\johnhamway_ucla\documents\visual studio 2017\Projects\plantville\plantville\obj\Debug\plantville.exe
+\\apporto.com\dfs\users\johnhamway_ucla\documents\visual studio 2017\Projects\plantville\plantville\obj\Debug\plantville.pdb
